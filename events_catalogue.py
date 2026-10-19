@@ -30,4 +30,14 @@ EVENTS = [
         'category': 'Technical',
         'description': 'Discuss how small web systems can be deployed and operated.',
     },
+        {
+        'id': 'Claude-meetup',
+        'title': 'Claude AI Meetup',
+        'date': '2026-11-19',
+        'time': '14:00',
+        'location': 'Waterside Campus, Room C119',
+        'capacity': 12,
+        'category': 'Technical',
+        'description': 'Discuss the latest developments in Claude AI.',
+    },
 ]
